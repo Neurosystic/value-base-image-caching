@@ -1,7 +1,3 @@
-# Image File Value-Based Caching System (2023)
-_Developed an image file cache system that utilised the value-based web caching technique to allow clients to download images stored server-side efficiently._
-
-
 <!-- README template obtained from: https://github.com/othneildrew/Best-README-Template/blob/master/README.md?plain=1-->
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/xinyu-chen-482142144/)
 <span id="readme-top"></span>
